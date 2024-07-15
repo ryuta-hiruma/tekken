@@ -1,0 +1,27 @@
+header{
+    background-color:black;
+    height: 50px;
+}
+header a {
+    display:inline-block;
+    padding:4px 12px;
+    font-weight:bold;
+    border:white solid thin;
+    color:white;
+    margin-left: 90px;
+    margin-top:7px;
+    font-style: italic;
+}
+
+header a:hover{
+    color:red;
+    border:red solid thin;
+}
+
+header span{
+    color:rgb(255, 0, 0);
+}
+
+a {
+    text-decoration: none;
+}
